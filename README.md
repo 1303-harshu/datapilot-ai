@@ -36,14 +36,4 @@ their data using natural language.
 - LLM API
 - Docker
 
-## Current Progress
 
-### Phase 1 — Machine Learning Foundations
-- [ ] Customer churn dataset analysis
-- [ ] Data preprocessing
-- [ ] Classification model
-- [ ] Model evaluation
-- [ ] Model comparison
-- [ ] Explainability
-
-More features will be added progressively.
